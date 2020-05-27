@@ -1,0 +1,10 @@
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\bin\Debug\DropDownPanel.exe.config
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\bin\Debug\DropDownPanel.exe
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\bin\Debug\DropDownPanel.pdb
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.csprojAssemblyReference.cache
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.Form1.resources
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.Properties.Resources.resources
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.csproj.GenerateResource.cache
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.exe
+C:\Users\Anastasiia\source\repos\DropDownPanel\DropDownPanel\obj\Debug\DropDownPanel.pdb
